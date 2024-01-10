@@ -1,0 +1,2 @@
+# Photos
+This is a partner project for a course called "Software Methodology". This software is a photo gallery created using JavaFX. Use username "admin" to log into the admin account and view all existing accounts (a stock account was preloaded into the software). The data persist across different sessions of the program. The UML diagram was used for planning purposes, even though it is incomplete.

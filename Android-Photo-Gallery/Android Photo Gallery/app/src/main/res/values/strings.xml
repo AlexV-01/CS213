@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_move">Move</string>
+    <string name="menu_next">Next</string>
+    <string name="menu_previous">Previous</string>
+    <string name="menu_search">Search</string>
+    <string name="person">Person</string>
+    <string name="location">Location</string>
+</resources>
